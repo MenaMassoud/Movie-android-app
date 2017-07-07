@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_options"><!--Displayed to the user-->
+        <item>Popularity</item>
+        <item>Rating</item>
+        <item>Favorites</item>
+    </string-array>
+    <string-array name="pref_values"><!--values i check-->
+        <item>popularity</item>
+        <item>rating</item>
+        <item>favorites</item>
+    </string-array>
+</resources>
